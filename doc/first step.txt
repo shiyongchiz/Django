@@ -1,0 +1,10 @@
+- go to project path: django-admin startproject <project name>
+	C:\Users\Coweller\OneDrive\Documents\Django>django-admin startproject mysite
+- go the project folder: 
+	C:\Users\Coweller\OneDrive\Documents\Django>cd mysite
+- run server:
+	C:\Users\Coweller\OneDrive\Documents\Django\mysite>python manage.py runserver
+or	C:\Users\Coweller\OneDrive\Documents\Django\mysite>python manage.py runserver 8080
+
+- creat the app (name HelloWorld):
+	C:\Users\Coweller\OneDrive\Documents\Django\mysite>python manage.py startapp HelloWorld
